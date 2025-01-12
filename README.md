@@ -30,7 +30,7 @@ Built with **Python**, **Pygame**, and **TensorFlow**, this fun experiment demon
 
 3. Run the project:
    ```bash
-   python carrefour.py
+   python carrefull.py
 
 
 ## 🤝 Contribute
