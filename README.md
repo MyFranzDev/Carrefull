@@ -22,7 +22,7 @@ Built with **Python**, **Pygame**, and **TensorFlow**, this fun experiment demon
 ## 🚀 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/MyFranzDev/Carrefull.git
 
 2. Install dependencies:
    ```bash
