@@ -24,6 +24,15 @@ Built with **Python**, **Pygame**, and **TensorFlow**, this fun experiment demon
    ```bash
    git clone https://github.com/yourusername/your-repo-name.git
 
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+
+3. Run the project:
+   ```bash
+   python carrefour.py
+
+
 ## 🤝 Contribute
 Feel free to improve, share, and have fun with this project! 😊
 
